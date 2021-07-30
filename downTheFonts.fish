@@ -4,3 +4,5 @@ function downTheFonts -d "Downloads all the fonts you will ever need"
     python3 main.py
     fish command.txt
 end
+
+downTheFonts
